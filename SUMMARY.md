@@ -3,7 +3,7 @@
 Some data here. [^1]
 
 
-[^1]: Comment to include in footnote.
+
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -81,5 +81,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
+
+
+[^1]: Comment to include in footnote.
 
 
