@@ -1,4 +1,4 @@
-# Citations
+#Citations
 
 Some data here. [1](#second)
 
