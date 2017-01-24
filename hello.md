@@ -1,1 +1,1 @@
-Some data here. [1](/SUMMARY.md)
+Some data here. [1](/citations.md)
