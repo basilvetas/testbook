@@ -1,1 +1,1 @@
-Some data here. [1](/citations.md)
+Some data here. [1](/citations.md#first)
