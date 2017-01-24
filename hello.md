@@ -1,8 +1,4 @@
-<ol>
-Some data here. [<li></li>](/citations.md#first)
 
-Some more data here. [<li></li>](/citations.md#second)
+Some data here. [1](/citations.md#first)
 
-
-
-</ol>
+Some more data here. [2](/citations.md#second)
