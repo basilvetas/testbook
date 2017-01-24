@@ -1,6 +1,6 @@
 # Citations
 
-Some data here. [^1]
+Some data here. [1]
 
 
 
@@ -79,10 +79,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
-
-
-
-
-[^1]: Comment to include in footnote.
-
-
+### <a name="head1234"></a>A Heading in this SO entry!
