@@ -19,7 +19,7 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non  
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-##### 1. Some citation [Link](https://www.google.com/) {#first}
+##### 1. Some citation [Link](https://www.google.com/) 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  
@@ -40,7 +40,7 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non  
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-##### 2. Second {#second}
+##### 2. Second 
 
 
 
