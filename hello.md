@@ -1,1 +1,1 @@
-Some data here. [1](/SUMMARY.md#<Second-Citation>)
+Some data here. [1](/SUMMARY.md)
