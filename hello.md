@@ -1,5 +1,5 @@
 
-Some data here. [1](/citations.md#first)
+Some data [here][1] 
 
 
 
@@ -7,6 +7,11 @@ Some data here. [1](/citations.md#first)
  
 
 Some more data here. [2](/citations.md#second)
+
+
+
+[1]:/citations.md#first
+
 
 
 
