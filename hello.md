@@ -1,8 +1,8 @@
 
-Some data here. [*](/citations.md#first)
+Some data here. [1](/citations.md#first)
  
 
-Some more data here. [*](/citations.md#second)
+Some more data here. [2](/citations.md#second)
 
 
 
