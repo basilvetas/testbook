@@ -1,5 +1,5 @@
 
-Some data [here][/citations.md#first] 
+Some data [here](/citations.md#first)
 
 
 
