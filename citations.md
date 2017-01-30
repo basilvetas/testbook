@@ -1,8 +1,6 @@
 # Citations
 
 
-[1]:/citations.md#first
-
 
 
 
