@@ -5,7 +5,7 @@ Some data here. [here][1]
 
 Some more data here. [2](/citations.md#second)
 
-[1]:(/citations.md#first)
+[1]:(citations.md#first)
 
 
 
