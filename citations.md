@@ -1,6 +1,6 @@
 # Citations
 
-{% references %} {% endreferences %}
+
 
 
 
