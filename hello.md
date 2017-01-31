@@ -1,6 +1,13 @@
 
 Some data here [first][1].
 
+Bla {{ "TLW" | cite }}
+
+
+{{ "ROC" | cite }}
+
+
+
  
 Some more data here [second][2].
 
@@ -10,8 +17,4 @@ Some more data here [second][2].
 
 
 
-{{ "TLW" | cite }}
-
-
-{{ "ROC" | cite }}
 
