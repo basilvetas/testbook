@@ -1,10 +1,10 @@
 
 Some data here [first][1].
 
-Bla {{ "TLW" | cite }}
+TLW {{ "TLW" | cite }}
 
 
-{{ "ROC" | cite }}
+ROC {{ "ROC" | cite }}
 
 
 
