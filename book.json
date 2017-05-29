@@ -1,5 +1,10 @@
 {
     "title": "test",
     "description": "-",
-    "plugins": ["bibtex-cite"]
+    "plugins": ["bibtex-indexed-cite"],
+    "pluginsConfig": {
+      "bibtex-indexed-cite": {
+          "path": "https://basilvetas.gitbooks.io/test/content/"                
+      }
+    } 
 }
