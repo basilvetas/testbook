@@ -19,5 +19,6 @@ _book
 npm-debug.log
 cover.jpg
 cover_small.jpg
+.DS_Store
 
 
