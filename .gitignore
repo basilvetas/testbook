@@ -14,3 +14,10 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# Other
+npm-debug.log
+cover.jpg
+cover_small.jpg
+
+
